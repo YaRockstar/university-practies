@@ -59,7 +59,7 @@ body {
 }
 
 .movie-info-wrap:hover {
-    background-image: url(.."/images/blood.webp");
+    background-image: url("../images/blood.webp");
 }
 
 .movie-info-wrap p, h3 {
