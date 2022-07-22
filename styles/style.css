@@ -7,7 +7,7 @@
 
 body {
     background-color: #E8E8E8;
-    background-image: url("/images/patrick.png");
+    background-image: url("../images/patrick.png");
     background-repeat: no-repeat;
     font-size: 16px;
     font-weight: normal;
@@ -59,7 +59,7 @@ body {
 }
 
 .movie-info-wrap:hover {
-    background-image: url("/images/blood.webp");
+    background-image: url(.."/images/blood.webp");
 }
 
 .movie-info-wrap p, h3 {
@@ -150,7 +150,7 @@ video {
     margin: inherit;
     padding: 30px 20px 20px;
     box-shadow: 5px 5px 10px rgba(0 0 0 / 25%);
-    background-image: url("/images/business-card-bg.jpg");
+    background-image: url("../images/business-card-bg.jpg");
     transition: transform 0.2s;
 }
 
