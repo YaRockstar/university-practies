@@ -8,7 +8,7 @@
 body {
     background-color: #E8E8E8;
     background-image: url("../images/patrick.png");
-    background-repeat: no-repeat;
+    background-repeat: repeat-x;
     font-size: 16px;
     font-weight: normal;
     font-family: 'Roboto Slab', serif;
